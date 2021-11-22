@@ -1,0 +1,12 @@
+input[type=text],input[type=number],input[type=date], select, textarea {
+  width: 100%;
+  padding: 4px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  box-sizing: border-box;
+  margin-top: 3px;
+  margin-bottom: 8px;
+  resize: vertical;
+}
+
+

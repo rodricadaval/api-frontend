@@ -1,0 +1,11 @@
+.jumbotron {
+    background-image: url("../images/reglamento.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#buttonVer {
+    margin-left: 45%;
+    font-size: xx-large;
+}
+

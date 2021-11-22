@@ -1,0 +1,30 @@
+.score{
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 60px;
+}
+
+.score2{
+    background-color: black;
+    color: white;
+    width: 45px;
+    height: 35px;
+}
+
+.buttonSaveMatch{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+input[type=number] { -moz-appearance:textfield; }
+
+
+
